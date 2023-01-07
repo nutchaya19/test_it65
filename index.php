@@ -6,7 +6,9 @@ include ("navigater.php");
 
 <div class = "container mt-5">
   <div class = "row">
-    <h1>pang index</h1>
+    <h1>page index</h1>
+    <h1>page for server</h1>
+
 
   </div>
 </div>
